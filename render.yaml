@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: ajaia-docs
+    runtime: node
+    plan: starter
+    buildCommand: npm ci && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    disk:
+      name: ajaia-docs-sqlite
+      mountPath: /var/data
+      sizeGB: 1
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_PATH
+        value: /var/data/ajaia-docs.db
+      - key: SESSION_SECRET
+        generateValue: true
