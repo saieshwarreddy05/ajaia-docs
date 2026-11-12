@@ -18,6 +18,7 @@
 
 ## Live Deployment & Walkthrough Links
 
+- **Google Drive Folder:** https://drive.google.com/drive/folders/15NzJk4BsGoeB63meV24g-SeS_qy_xjNz?usp=sharing
 - **GitHub Repository:** https://github.com/saieshwarreddy05/ajaia-docs
 - **Live Product URL:** https://ajaia-docs-yupj.onrender.com
 - **Walkthrough Video URL:** https://www.loom.com/share/bcd9cc383fdc465fbd7ed87bfbf41093 *(also saved in `walkthrough-video-url.txt`)*
