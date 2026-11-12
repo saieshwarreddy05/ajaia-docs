@@ -18,6 +18,7 @@
 
 ## Live Deployment & Walkthrough Links
 
+- **GitHub Repository:** https://github.com/saieshwarreddy05/ajaia-docs
 - **Live Product URL:** `<ADD_LIVE_DEPLOYMENT_URL_HERE>`
 - **Walkthrough Video URL:** https://www.loom.com/share/bcd9cc383fdc465fbd7ed87bfbf41093 *(also saved in `walkthrough-video-url.txt`)*
 
